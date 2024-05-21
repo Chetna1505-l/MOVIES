@@ -1,0 +1,13 @@
+.box{
+    background-color: blue;
+    height:400px;
+    width:400px;
+    margin:auto;
+    /*background: linear-gradient(yellow,blue,red);*/
+   /* background: linear-gradient(to left,yellow,red);*/
+ /*  background: linear-gradient(100deg,yellow,blue);*/
+background: linear-gradient(yellow 80%,blue 20% );
+border: 10px solid black;
+background:radial-gradient(yellow 50%,blue 50%);
+border-radius: 50%;
+}
